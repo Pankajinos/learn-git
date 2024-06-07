@@ -1,4 +1,4 @@
-#Learing git and github
-'''Python
-print("Namaste GIT")
-'''
+# Learinig git and gitbub
+```Python 
+print("Namaste git")
+```
